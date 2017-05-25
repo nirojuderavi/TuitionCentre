@@ -1,0 +1,5 @@
+c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\TuitionCentre.BL\bin\Debug\TuitionCentre.BL.dll
+c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\TuitionCentre.BL\bin\Debug\TuitionCentre.BL.pdb
+c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.csprojResolveAssemblyReference.cache
+c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.dll
+c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.pdb
