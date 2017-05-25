@@ -8,3 +8,8 @@ C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\Tuition
 C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.csprojResolveAssemblyReference.cache
 C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.dll
 C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.pdb
+C:\Users\niroj\OneDrive\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\bin\Debug\TuitionCentre.BL.dll
+C:\Users\niroj\OneDrive\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\bin\Debug\TuitionCentre.BL.pdb
+C:\Users\niroj\OneDrive\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.csprojResolveAssemblyReference.cache
+C:\Users\niroj\OneDrive\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.dll
+C:\Users\niroj\OneDrive\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.pdb

@@ -48,21 +48,6 @@ namespace TuitionCentre.BL
             }
         }
 
-        public Student Retrieve(int studentId)
-        {
-            return new Student();
-        }
-
-        public List<Student> Retrieve()
-        {
-            return new List<Student>();
-        }
-
-        public bool Save()
-        {
-            return true;
-        }
-
 
         public bool Validate()
         {
