@@ -5,3 +5,10 @@ c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\
 c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\Tuition.BLTest\obj\Debug\Tuition.BLTest.csprojResolveAssemblyReference.cache
 c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\Tuition.BLTest\obj\Debug\Tuition.BLTest.dll
 c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\Tuition.BLTest\obj\Debug\Tuition.BLTest.pdb
+C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\Tuition.BLTest\bin\Debug\Tuition.BLTest.dll
+C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\Tuition.BLTest\bin\Debug\Tuition.BLTest.pdb
+C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\Tuition.BLTest\bin\Debug\TuitionCentre.BL.dll
+C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\Tuition.BLTest\bin\Debug\TuitionCentre.BL.pdb
+C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\Tuition.BLTest\obj\Debug\Tuition.BLTest.csprojResolveAssemblyReference.cache
+C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\Tuition.BLTest\obj\Debug\Tuition.BLTest.dll
+C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\Tuition.BLTest\obj\Debug\Tuition.BLTest.pdb

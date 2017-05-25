@@ -3,3 +3,8 @@ c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\
 c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.csprojResolveAssemblyReference.cache
 c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.dll
 c:\users\niro.ravindrakumar\documents\visual studio 2013\Projects\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.pdb
+C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\bin\Debug\TuitionCentre.BL.dll
+C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\bin\Debug\TuitionCentre.BL.pdb
+C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.csprojResolveAssemblyReference.cache
+C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.dll
+C:\Users\niro.ravindrakumar\Documents\GitHub\TuitionCentre\TuitionCentre\TuitionCentre.BL\obj\Debug\TuitionCentre.BL.pdb
